@@ -66,9 +66,6 @@ html = html.split('span').join('a')
 
 
 
-// 0800 007 1007
-
-
 
 // Retorne o último caracter da frase
 const frase = 'Melhor do ano!';
